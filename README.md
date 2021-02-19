@@ -1,1 +1,2 @@
-# Portifolio
+Um repositório dedicado à armazenar alguns projetos.
+Ainda em construção...
