@@ -1,2 +1,1 @@
-Um repositório dedicado à armazenar alguns projetos.
-Ainda em construção...
+Atividade feita durante a segunda imersão de dados da Alura.
